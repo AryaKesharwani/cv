@@ -12,7 +12,7 @@ export const RESUME_DATA: ResumeData = {
   personalWebsiteUrl: "https://aryakesarwani.tech",
   contact: {
     email: "work.aryakesarwani@gmail.com",
-    tel: "+919451541978",
+    tel: "+918056274841",
     social: [
       {
         name: "GitHub",
