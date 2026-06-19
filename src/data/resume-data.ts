@@ -33,6 +33,12 @@ export const RESUME_DATA: ResumeData = {
       start: "2021",
       end: "2025",
     },
+    {
+      school: "Indian Institute of Technology, Ropar",
+      degree: "Minor in Artificial Intelligence",
+      start: "2024",
+      end: "2025",
+    },
   ],
   work: [
     {
