@@ -45,8 +45,6 @@ export const RESUME_DATA: ResumeData = {
       company: "Tata Consultancy Services",
       link: "https://www.tcs.com",
       badges: [
-        "On Site",
-        "TCS BaNCS",
         "Corporate Actions",
         "Banking",
         "Java",
