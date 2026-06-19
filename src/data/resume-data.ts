@@ -7,7 +7,7 @@ export const RESUME_DATA: ResumeData = {
   locationLink: "https://www.google.com/maps/place/New+Delhi",
   about: "Software Engineer building web and ML-powered applications.",
   summary:
-    "Computer Science graduate from SRM Institute of Science and Technology with hands-on experience across frontend, backend, and ML engineering through internships at Levelgrid, GetPaisa, and Samsung Research. Multi-time national hackathon winner, including Smart India Hackathon.",
+    "Systems Engineer at Tata Consultancy Services working on the TCS BaNCS banking platform. Computer Science graduate from SRM Institute with prior internship experience across frontend, backend, and ML engineering at Levelgrid, GetPaisa, and Samsung Research. Multi-time national hackathon winner, including Smart India Hackathon.",
   avatarUrl: "https://avatars.githubusercontent.com/u/64867381?v=4",
   personalWebsiteUrl: "https://aryakesarwani.tech",
   contact: {
@@ -41,6 +41,20 @@ export const RESUME_DATA: ResumeData = {
     },
   ],
   work: [
+    {
+      company: "Tata Consultancy Services",
+      link: "https://www.tcs.com",
+      badges: ["On Site", "TCS BaNCS", "Banking", "Java"],
+      title: "Systems Engineer",
+      start: "2025",
+      end: null,
+      description:
+        "Working on TCS BaNCS, TCS's flagship banking and financial services platform, contributing to enterprise modules used by banks worldwide.",
+      highlights: [
+        "Developing and maintaining BaNCS modules for core banking workflows",
+        "Collaborating with cross-functional teams on enterprise-grade financial software",
+      ],
+    },
     {
       company: "Levelgrid Software Development Pvt. Ltd.",
       link: "https://levelgrid.com",
