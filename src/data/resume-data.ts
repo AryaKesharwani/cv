@@ -44,14 +44,23 @@ export const RESUME_DATA: ResumeData = {
     {
       company: "Tata Consultancy Services",
       link: "https://www.tcs.com",
-      badges: ["On Site", "TCS BaNCS", "Banking", "Java"],
+      badges: [
+        "On Site",
+        "TCS BaNCS",
+        "Corporate Actions",
+        "Banking",
+        "Java",
+        "SQL",
+        "Linux",
+      ],
       title: "Systems Engineer",
       start: "2025",
       end: null,
       description:
-        "Working on TCS BaNCS, TCS's flagship banking and financial services platform, contributing to enterprise modules used by banks worldwide.",
+        "Working on TCS BaNCS, TCS's flagship banking and financial services platform, contributing to the Corporate Actions module used by banks worldwide.",
       highlights: [
-        "Developing and maintaining BaNCS modules for core banking workflows",
+        "Developing and maintaining the Corporate Actions module for events such as dividends, splits, and mergers",
+        "Building and querying data flows in Java and SQL on Linux-based environments",
         "Collaborating with cross-functional teams on enterprise-grade financial software",
       ],
     },
