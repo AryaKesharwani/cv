@@ -8,7 +8,7 @@ export const RESUME_DATA: ResumeData = {
   about: "Software Engineer building web and ML-powered applications.",
   summary:
     "Computer Science graduate from SRM Institute of Science and Technology with hands-on experience across frontend, backend, and ML engineering through internships at Levelgrid, GetPaisa, and Samsung Research. Multi-time national hackathon winner, including Smart India Hackathon.",
-  avatarUrl: "https://github.com/AryaKesharwani.png",
+  avatarUrl: "https://avatars.githubusercontent.com/u/64867381?v=4",
   personalWebsiteUrl: "https://aryakesarwani.tech",
   contact: {
     email: "work.aryakesarwani@gmail.com",
